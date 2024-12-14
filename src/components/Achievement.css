@@ -1,0 +1,139 @@
+/* Achievements Section Styling */
+.achievements-section {
+    background-color: #0a192f; /* Dark background color to match the Hero section */
+    padding: 60px 20px;
+    font-family: "Arial", sans-serif;
+    color: #ccd6f6; /* Light text for readability */
+  }
+  
+  .achievements-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .achievements-heading {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+    color: #64ffda; /* Light cyan color for headings */
+  }
+  
+  .achievements-description {
+    font-size: 1.1rem;
+    margin-bottom: 40px;
+    color: #8892b0; /* Lighter text for the description */
+  }
+  
+  /* Progress Bars Container */
+  .progress-bars {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  
+  .progress-item {
+    background-color: #112240; /* Darker background for individual progress items */
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  }
+  
+  .progress-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    background-color: #1a2a47; /* Darker shade on hover */
+  }
+  
+  .progress-item span {
+    color: #64ffda; /* Cyan color for labels */
+    font-weight: 600;
+  }
+  
+  .progress-bar {
+    width: 100%;
+    height: 10px; /* Slightly thicker bar for better visibility */
+    background-color: #1a2a47; /* Darker background for the progress bar */
+    border-radius: 8px;
+    margin: 10px 0;
+  }
+  
+  .progress {
+    height: 100%;
+    background-color: #4ea1ff; /* Cyan color for progress */
+    border-radius: 8px;
+    transition: width 0.4s ease-in-out;
+  }
+  
+  /* Hover Effect on Progress Bar */
+  .progress-item:hover .progress {
+    background-color: #4474a4; /* Darker cyan on hover */
+  }
+  /* Achievements Section Styling */
+.achievements-section {
+  background-color: #0a192f; /* Dark blue background to match the home page */
+  padding: 60px 20px;
+  font-family: "Arial", sans-serif;
+  color: #ccd6f6; /* Light text color for contrast */
+}
+
+.achievements-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.achievements-heading {
+  font-size: 2.5rem;
+  margin-bottom: 15px;
+  color: #64ffda; /* Light cyan color for the heading */
+}
+
+.achievements-description {
+  font-size: 1.1rem;
+  margin-bottom: 40px;
+  color: #8892b0; /* Slightly lighter gray text for readability */
+}
+
+/* Achievements List */
+.achievements-list {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.achievement-item {
+  background-color: #112240; /* Darker blue background for the individual items */
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.achievement-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  background-color: #1a2a47; /* Darker shade of blue on hover */
+}
+
+.achievement-item h3 {
+  font-size: 1.5rem;
+  color: #64ffda; /* Cyan color for subheadings */
+}
+
+.achievement-item p {
+  font-size: 1rem;
+  color: #ccd6f6; /* Light text for body */
+  margin: 10px 0;
+}
+
+.achievement-item a {
+  color: #64ffda; /* Cyan color for links */
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.achievement-item a:hover {
+  text-decoration: underline;
+  color: #1f8fae; /* Slightly darker cyan on hover */
+}

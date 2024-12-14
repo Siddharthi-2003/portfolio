@@ -1,0 +1,51 @@
+.work-experience-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    color: #ccd6f6;
+  }
+  
+  .section-title {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #64ffda;
+  }
+  
+  .experience-item {
+    background-color: #112240;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .job-title {
+    font-size: 1.8rem;
+    color: #64ffda;
+  }
+  
+  .company-name {
+    font-size: 1.2rem;
+    color: #8892b0;
+  }
+  
+  .dates {
+    font-size: 1rem;
+    color: #8892b0;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  ul li {
+    font-size: 1rem;
+    color: #ccd6f6;
+    margin-bottom: 10px;
+  }
+  strong{
+    color: #64ffda;
+  }
