@@ -30,15 +30,15 @@ const Achievements = () => {
             <h3>Sport Programming</h3>
             <p>
               Crafted solutions for complex problems on platforms like{" "}
-              <a href="https://www.geeksforgeeks.org" target="_blank" rel="noopener noreferrer">GeeksForGeeks</a>,{" "}
-              <a href="https://www.codestudio.io" target="_blank" rel="noopener noreferrer">CodeStudio</a>, and{" "}
-              <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer">Leetcode</a>, achieving an 80%+ completion rate.
+              <a href="https://www.geeksforgeeks.org/user/sahasid1e68/" target="_blank" rel="noopener noreferrer">GeeksForGeeks</a>,{" "}
+              <a href="https://www.naukri.com/code360/profile/15034385-f83e-4018-936e-badfbc8352bd" target="_blank" rel="noopener noreferrer">CodeStudio</a>, and{" "}
+              <a href="https://leetcode.com/u/21je0921/" target="_blank" rel="noopener noreferrer">Leetcode</a>, achieving an 80%+ completion rate.
             </p>
             <p>
               Certifications:{" "}
-              <a href="https://www.coursera.org/courses/css" target="_blank" rel="noopener noreferrer">CSS</a>,{" "}
-              <a href="https://www.coursera.org/courses/java" target="_blank" rel="noopener noreferrer">JAVA</a>,{" "}
-              <a href="https://www.coursera.org/courses/cplusplus" target="_blank" rel="noopener noreferrer">C++</a>.
+              <a href="https://www.hackerrank.com/certificates/6192ae3c915f" target="_blank" rel="noopener noreferrer">CSS</a>,{" "}
+              <a href="https://www.hackerrank.com/certificates/4c0e35701a26" target="_blank" rel="noopener noreferrer">JAVA</a>,{" "}
+              <a href="https://www.cse.iitb.ac.in/~evalpro-support/codeastra2023/certificates/589.png" target="_blank" rel="noopener noreferrer">C++</a>.
             </p>
           </div>
 
