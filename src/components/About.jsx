@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import "./About.css";
-import { Link } from 'react-router-dom'; // Make sure you import Link correctly
+import { Link } from 'react-router-dom'; 
 import Achievements from "./Achievements";
 import Portfolio from "./Work.jsx";
 
@@ -105,8 +105,8 @@ const About = () => (
     </p>
 
     <div className="buttons">
-    <a href="./Achievements" className="btn">Achievements</a>
-    <a href="./Work" className="btn">My Portfolio</a>
+    <Link to="/achievements" className="btn">Achievements</Link>
+    <Link to="/work" className="btn">Portfolio</Link>
     </div>
   </motion.section>
 );

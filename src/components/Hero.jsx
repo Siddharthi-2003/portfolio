@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import profilePic from "./profile pic.jpg";
+import { Link } from 'react-router-dom'; 
 import "./Hero.css";
 
 const Hero = () => {
@@ -24,7 +25,7 @@ const Hero = () => {
                 I'm a software engineer specializing in web development and autonomous systems. I focus on
                 creating exceptional digital experiences and innovative solutions.
               </p>
-              <a className="cta-button" href="./Work">Check out my work!</a>
+              <Link to="/work" className="cta-button">Check out my work</Link>
             </td>
             <td className="profile-picture">
             <img src={profilePic} alt="Siddharthi Saha" />
